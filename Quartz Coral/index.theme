@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Quartz Coral
+Comment=GTK Theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Quartz Coral
+MetacityTheme=Quartz Coral
+IconTheme=Marwaita-Dark
+CursorTheme=Marwaita
+CursorSize=24
